@@ -1,2 +1,1 @@
-# trafficcone
-Traffic cone recognition with PPM files
+# Traffic cone recognition with PPM files
